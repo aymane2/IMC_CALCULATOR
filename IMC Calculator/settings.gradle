@@ -1,0 +1,2 @@
+rootProject.name = "BestBody"
+include ':app'
